@@ -1,2 +1,2 @@
 # Password-Encryption
-AES algorithm for password encryption
+AES(Advanced Encryption Standard) algorithm for password encryption
